@@ -13,7 +13,6 @@ namespace Course
 
             Console.WriteLine("Enter Department's Name:");
             string deptName = Console.ReadLine();
-            Console.WriteLine("Enter Worker Data:");
             Console.WriteLine("Name: ");
             string name = Console.ReadLine();
             Console.WriteLine("Level (Junior/MidLevel/Senior): ");
