@@ -1,0 +1,13 @@
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\bin\Debug\netcoreapp3.1\estudo C#.exe
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\bin\Debug\netcoreapp3.1\estudo C#.deps.json
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\bin\Debug\netcoreapp3.1\estudo C#.runtimeconfig.json
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\bin\Debug\netcoreapp3.1\estudo C#.runtimeconfig.dev.json
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\bin\Debug\netcoreapp3.1\estudo C#.dll
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\bin\Debug\netcoreapp3.1\estudo C#.pdb
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.csprojAssemblyReference.cache
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.AssemblyInfoInputs.cache
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.AssemblyInfo.cs
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.dll
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.pdb
+C:\Users\Guilherme.Araujo\Projetos\estudo C#\obj\Debug\netcoreapp3.1\estudo C#.genruntimeconfig.cache
